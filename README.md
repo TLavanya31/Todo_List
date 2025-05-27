@@ -5,7 +5,7 @@ A basic and clean **Todo List** application built using **HTML, CSS, Bootstrap, 
 ---
 
 ## 🌐 Live Demo
-👉 [View Todo List App](file:///C:/Users/HP/Documents/Todo%20List/index.html)
+👉 [View Todo List App](https://legendary-pudding-a0729c.netlify.app/)
 
 ---
 

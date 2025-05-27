@@ -5,7 +5,7 @@ A basic and clean **Todo List** application built using **HTML, CSS, Bootstrap, 
 ---
 
 ## 🌐 Live Demo
-👉 [View Todo List App](http://127.0.0.1:5500/)
+👉 [View Todo List App](file:///C:/Users/HP/Documents/Todo%20List/index.html)
 
 ---
 
